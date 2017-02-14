@@ -4,7 +4,7 @@
     "Jason P <jmpanugaling@gmail.com>"
   ],
   "description": "Angular Form fields",
-  "main": "directive.js",
+  "main": "angular-form-field.js",
   "keywords": [
     "angular-form-field",
     "form-fields",
@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.6.2"
+    "angular": "~1.6.0"
   }
 }

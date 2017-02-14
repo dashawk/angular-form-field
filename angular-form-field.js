@@ -5,7 +5,7 @@
 		.module('ngFormField', [])
 		.directive('formField', formField);
 	
-	function formField() {
+	function formField($compile) {
 		return {
 			require: 'ngModel',
 			restrict: 'E',
