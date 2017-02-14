@@ -1,0 +1,23 @@
+{
+  "name": "angular-form-field",
+  "authors": [
+    "Jason P <jmpanugaling@gmail.com>"
+  ],
+  "description": "Angular Form fields",
+  "main": "directive.js",
+  "keywords": [
+    "angular-form-field",
+    "form-fields",
+    "form-fields-directive",
+    "directives"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
